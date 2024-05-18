@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "EstoqueFacil",
+    "slug": "EstoqueFacil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon.ico",
+    "userInterfaceStyle": "black",
+    "splash": {
+      "image": "./assets/favicon.ico",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.estoquefacil.estoquefacil",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.estoquefacil.estoquefacil",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.ico"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "38bca6d1-054d-49ca-ad55-7a9fc23364b4"
+      }
+    }
+  }
+}
